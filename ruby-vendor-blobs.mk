@@ -72,20 +72,19 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ruby/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
   vendor/htc/ruby/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
   vendor/htc/ruby/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+  vendor/htc/ruby/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+  vendor/htc/ruby/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ruby/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/ruby/proprietary/lib/libdiag.so:system/lib/libdiag.so \
-  vendor/htc/ruby/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
-  vendor/htc/ruby/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
   vendor/htc/ruby/proprietary/lib/libdsm.so:system/lib/libdsm.so \
-  vendor/htc/ruby/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc/ruby/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc/ruby/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
   vendor/htc/ruby/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
-  vendor/htc/ruby/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ruby/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
   vendor/htc/ruby/proprietary/lib/hw/nfc.ruby.so:system/lib/hw/nfc.ruby.so \
   vendor/htc/ruby/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-  vendor/htc/ruby/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
+  vendor/htc/ruby/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
+  vendor/htc/ruby/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
   vendor/htc/ruby/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
   vendor/htc/ruby/proprietary/lib/libnv.so:system/lib/libnv.so \
   vendor/htc/ruby/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
