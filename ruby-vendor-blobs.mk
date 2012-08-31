@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ruby/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
   vendor/htc/ruby/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
   vendor/htc/ruby/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+  vendor/htc/ruby/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc/ruby/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
   vendor/htc/ruby/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
   vendor/htc/ruby/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
@@ -70,14 +71,15 @@ PRODUCT_COPY_FILES += \
   vendor/htc/ruby/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc/ruby/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc/ruby/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
+  vendor/htc/ruby/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
   vendor/htc/ruby/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
   vendor/htc/ruby/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
+  vendor/htc/ruby/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
   vendor/htc/ruby/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc/ruby/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc/ruby/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
   vendor/htc/ruby/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/ruby/proprietary/lib/libdsm.so:system/lib/libdsm.so \
-  vendor/htc/ruby/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc/ruby/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
   vendor/htc/ruby/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
   vendor/htc/ruby/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
